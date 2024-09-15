@@ -25,6 +25,3 @@ This **Pomodoro Timer App** is a simple productivity tool designed to help users
 - Add customizable work and break durations through the user interface.
 - Implement notifications or sound alerts when the session ends.
 - Add the ability to pause the timer.
-
-## Contribution
-Feel free to contribute to this project by submitting issues or pull requests. Suggestions for improvements are always welcome!
